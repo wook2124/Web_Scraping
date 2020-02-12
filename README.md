@@ -1,4 +1,4 @@
-# Web Scrapping
+# Web Scraping
 
 1. About physical therapy jobs
 
