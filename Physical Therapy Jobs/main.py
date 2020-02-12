@@ -1,4 +1,4 @@
-from py_indeed import get_jobs as get_indeed_jobs
+from pt_indeed import get_jobs as get_indeed_jobs
 from save import save_file
 
 
