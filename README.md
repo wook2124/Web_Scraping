@@ -1,6 +1,5 @@
 # Web Scraping
-- About physical therapy jobs
-- About python jobs
+Physical therapy & Python jobs Web Scraping
 
 ## Website
 - [Physical Therapy Jobs](https://kr.indeed.com/jobs?q=%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C&limit=50&radius=25&start=50)
