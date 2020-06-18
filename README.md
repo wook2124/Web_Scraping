@@ -19,3 +19,5 @@ I easily got a job data on the site through web-scraping. Try web-scraping with 
 ## What I used for this project 
 
 - [X] Python
+- [X] Request
+- [X] BeautifulSoup4
